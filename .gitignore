@@ -1,0 +1,10 @@
+# QEMU/KVM Git Ignore template. Excludes IMG's and QCOW2's.
+
+/cdrom/1920x1080-OpenCore.img
+/harddrives/macintosh.img
+/opencore/opencore.qcow2
+/osxinstaller/sl_utm.qcow2
+/showcase/Desktop.png
+/showcase/Installer.png
+/showcase/OpenCore.png
+/showcase/DiskUtility.png
