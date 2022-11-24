@@ -4,6 +4,13 @@ This `README.md` documents the process of creating a `Virtual Hackintosh` system
 For converting PKG's & DMG's -> IMG -> QCOW2, follow `CONVERSIONS.md` for documentation.
 For modifying Display Resolution, follow `OPENCORE.md` for documentation.
 
+---
+
+##### For 8 Core, 16GB, 1080p HiRes Script Support for Snow Leopard, Download and place under cdrom/
+###### [Download 1920x1080p-OpenCore.img](https://www.dropbox.com/s/xwf1py4tw3d3qjg/1920x1080-OpenCore.img?dl=0)
+
+---
+
 ## Current Support Table
 
 | Mac OS X | Status | Architecture | Boot Script | Installer | Notes |
@@ -153,4 +160,4 @@ I followed this neat guide on [Adam Roe's](https://adamroe.me/blog/snow-leopard-
 <img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/MountainLionInstaller.png">
 
 ### Mac OS X Mountain Lion Boot Failed, Custom OpenCore-MLion.qcow2 used
-<img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/MountainLionFailedBoot.png">
+<img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/MountainLionBootFailed.png">
