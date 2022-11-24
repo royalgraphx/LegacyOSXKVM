@@ -18,7 +18,7 @@ echo -e 'qemu-system-x86_64 -machine pc-q35-6.1,vmport=off,accel=kvm -bios /usr/
 -device usb-mouse,bus=usb-bus.0 \
 -device usb-kbd,bus=usb-bus.0 \
 -device ide-hd,bus=ide.0,drive=OpenCore,bootindex=0 \
--drive "if=none,format=raw,media=disk,id=OpenCore,file=opencore/opencore.qcow2,discard=unmap,detect-zeroes=unmap" \
+-drive "if=none,media=disk,id=OpenCore,file=opencore/opencore-SLeopard.qcow2,discard=unmap,detect-zeroes=unmap" \
 -device ide-hd,bus=ide.2,drive=HardDrives,bootindex=2 \
 -drive "if=none,format=raw,media=disk,id=HardDrives,file=harddrives/.img,discard=unmap,detect-zeroes=unmap" \
 '  >> Boot.sh

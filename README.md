@@ -148,3 +148,9 @@ I followed this neat guide on [Adam Roe's](https://adamroe.me/blog/snow-leopard-
 
 ### Mac OS X Snow Leopard Desktop, 3.6Ghz Intel Duo CPU, 4GB RAM
 <img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/Desktop.png">
+
+### Mac OS X Mountain Lion Installer
+<img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/MountainLionInstaller.png">
+
+### Mac OS X Mountain Lion Boot Failed, Custom OpenCore-MLion.qcow2 used
+<img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/MountainLionFailedBoot.png">
