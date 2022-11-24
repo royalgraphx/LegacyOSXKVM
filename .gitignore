@@ -2,5 +2,9 @@
 
 /cdrom/1920x1080-OpenCore.img
 /harddrives/macintosh.img
+/harddrives/disk-0.qcow2
 /osxinstaller/sl_utm.qcow2
 /osxinstaller/MountainLion.img
+
+Boot.sh
+Install.sh

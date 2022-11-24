@@ -1,8 +1,7 @@
 #!/bin/bash
 
 echo -e 'qemu-system-x86_64 -machine pc-q35-6.1,vmport=off,accel=kvm -bios /usr/share/edk2-ovmf/x64/OVMF_CODE.fd \
--name Custom Mac OS X Enviroment \
--uuid 22467C52-A237-4521-6676-FFB147945215C \
+-name "Custom Mac OS X Enviroment" \
 -vga none \
 -device vmware-svga \
 -device virtio-rng-pci \
