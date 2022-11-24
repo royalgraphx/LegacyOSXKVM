@@ -137,3 +137,14 @@ I followed this neat guide on [Adam Roe's](https://adamroe.me/blog/snow-leopard-
 
 # Showcase !
 
+### OpenCore Boot Menu
+<img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/OpenCore.png">
+
+### Mac OS X Verbose Boot
+<img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/Verbose.png">
+
+### Mac OS X Snow Leopard Installation
+<img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/Installer.png">
+
+### Mac OS X Snow Leopard Desktop, 3.6Ghz Intel Duo CPU, 4GB RAM
+<img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/Desktop.png">
