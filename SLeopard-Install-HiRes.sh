@@ -19,7 +19,7 @@ qemu-system-x86_64 -machine pc-q35-6.1,vmport=off,accel=kvm -bios /usr/share/edk
 -device usb-mouse,bus=usb-bus.0 \
 -device usb-kbd,bus=usb-bus.0 \
 -device ide-hd,bus=ide.0,drive=OpenCore,bootindex=0 \
--drive "if=none,format=raw,media=disk,id=OpenCore,file=cdrom/1920x1080-OpenCore.img,discard=unmap,detect-zeroes=unmap" \
+-drive "if=none,format=raw,media=disk,id=OpenCore,file=opencore/1920x1080-OpenCoreSLeopard.img,discard=unmap,detect-zeroes=unmap" \
 -device ide-hd,bus=ide.1,drive=OSXInstaller,bootindex=1 \
 -drive "if=none,media=disk,id=OSXInstaller,file=osxinstaller/sl_utm.qcow2,discard=unmap,detect-zeroes=unmap" \
 -device ide-hd,bus=ide.2,drive=HardDrives,bootindex=2 \

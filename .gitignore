@@ -1,12 +1,9 @@
 # QEMU/KVM Git Ignore template. Excludes IMG's and QCOW2's.
 
-/cdrom/1920x1080-OpenCore.img
-/harddrives/macintosh.img
-/harddrives/disk-0.qcow2
-/harddrives/mlion.img
-/osxinstaller/sl_utm.qcow2
-/osxinstaller/MountainLion.img
-/osxinstaller/MLion.img
+/opencore/1920x1080-OpenCoreSLeopard.img
+**/harddrives/*
+**/cdrom/*
+**/osxinstaller/*
 
 Boot.sh
 Install.sh

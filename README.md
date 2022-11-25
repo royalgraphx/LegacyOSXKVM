@@ -6,8 +6,8 @@ For modifying Display Resolution, follow `OPENCORE.md` for documentation.
 
 ---
 
-##### For 8 Core, 16GB, 1080p HiRes Script Support for Snow Leopard, Download and place under cdrom/
-###### [Download 1920x1080p-OpenCore.img](https://www.dropbox.com/s/xwf1py4tw3d3qjg/1920x1080-OpenCore.img?dl=0)
+##### For 8 Core, 16GB, 1080p HiRes Script Support for Snow Leopard, Download and place under opencore/
+###### [Download 1920x1080p-OpenCoreSLeopard.img](https://www.dropbox.com/s/xwf1py4tw3d3qjg/1920x1080-OpenCoreSLeopard.img?dl=0)
 
 ---
 
@@ -22,9 +22,9 @@ For modifying Display Resolution, follow `OPENCORE.md` for documentation.
 | Version 10.4: "Tiger" | Boots, installs, runs | PowerPC | ./Tiger-Boot.sh | [Download](https://drive.google.com/file/d/16IHD6UjQUSfAudv8UrICOMudaVSeOorV/view)
 | Version 10.5: "Leopard" | Boots, installs, runs | PowerPC / Intel | ./Leopard-PPC-Boot.sh & ./Leopard-Intel-Boot.sh | [Download PPC](https://macintoshgarden.org/apps/mac-osx-mac-os-10-ppc?page=1) & [Download Intel](https://archive.org/details/OsxLeopardInstall)
 | Version 10.6: "Snow Leopard" | Boots, installs, runs | PowerPC (?) / Intel | ./SLeopard-Boot.sh | [Download](https://www.dropbox.com/s/9qeeuiasp8l0rys/sl_utm.qcow2?dl=0) | OOB OpenCore Support, Inspired this repo|
-| Version 10.7: "Lion" | Untested | Intel  | ./Lion-Boot.sh | [Download](https://archive.org/details/install-mac-os-x-lion-10.7.0-lion) | Needs Prev Install of Snow Leopard |
-| Version 10.8: "Mountain Lion" | Untested | Intel | ./MLion-Boot.sh | [Download](https://archive.org/details/osxmountainlion1085) | Needs Prev Install of Snow Leopard |
-| Version 10.9: "Mavericks" | Untested | Intel | ./Mavericks-Boot.sh | [Download](https://archive.org/details/OSXMavericksInstallDVD) | Follow this guide to convert dmgs -> img -> qcow2 |
+| Version 10.7: "Lion" | Untested | Intel  | ./Lion-Boot.sh | [Download](https://archive.org/details/install-mac-os-x-lion-10.7.0-lion) | |
+| Version 10.8: "Mountain Lion" | Boots, installs, runs | Intel | ./MLion-Boot.sh | [Download](https://archive.org/details/osxmountainlion1085) | |
+| Version 10.9: "Mavericks" | Untested | Intel | ./Mavericks-Boot.sh | [Download](https://archive.org/details/OSXMavericksInstallDVD) | |
 | Version 10.10: "Yosemite" | Untested | Intel | ./Yosemite-Boot.sh | [Download](http://swcdn.apple.com/content/downloads/21/09/031-20634/8d84o1ky5gn2agnf5kiz9eed134n7y3q4c/RecoveryHDUpdate.pkg)
 | Version 10.11: "El Capitan" | Untested | Intel | ./Capitan-Boot.sh | [Download](http://swcdn.apple.com/content/downloads/08/58/031-45768/yy0xr85ltis3a7mxuqf3zgaw7sovupckd7/RecoveryHDUpdate.pkg)
 | Version 10.12: "Sierra" | Untested | Intel | ./Sierra-Boot.sh | [Download](http://swcdn.apple.com/content/downloads/01/53/031-86778/pnekzincp6rkf5iu91onj1bm5mw1gotnwg/RecoveryHDUpdate.pkg)
@@ -159,5 +159,12 @@ I followed this neat guide on [Adam Roe's](https://adamroe.me/blog/snow-leopard-
 ### Mac OS X Mountain Lion Installer
 <img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/MountainLionInstaller.png">
 
-### Mac OS X Mountain Lion Boot Failed, Custom OpenCore-MLion.qcow2 used
+### Mac OS X Mountain Lion Boot Failed (KP)
 <img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/MountainLionBootFailed.png">
+
+### Mac OS X Mountain Lion Recovery
+<img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/MountainLionBootInstallWorking.png">
+<img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/MLInstaller.png">
+
+### Mac OS X Mountain Lion Desktop
+<img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/MLDesktop.png">
