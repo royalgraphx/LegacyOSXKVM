@@ -144,6 +144,15 @@ I followed this neat guide on [Adam Roe's](https://adamroe.me/blog/snow-leopard-
 
 # Showcase !
 
+### Mac OS X Cheetah Post Install
+<img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/CheetahPostInstall.png">
+
+### Mac OS X Cheetah Desktop
+<img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/CheetaDesktop.png">
+
+### Mac OS X Cheetah Networking
+<img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/CheetaNetwork.png">
+
 ### OpenCore Boot Menu
 <img src="https://raw.githubusercontent.com/royalgraphx/LegacyOSXKVM/main/showcase/OpenCore.png">
 
