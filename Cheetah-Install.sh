@@ -10,4 +10,4 @@ qemu-system-ppc -L pc-bios \
 -device ide-cd,bus=ide.0,drive=OSXInstaller \
 -drive "if=none,format=raw,media=disk,id=OSXInstaller,file=osxinstaller/MacOSX10.0.3.iso,discard=unmap,detect-zeroes=unmap" \
 -device ide-hd,bus=ide.1,drive=HardDrives \
--drive "if=none,format=raw,media=disk,id=HardDrives,file=harddrives/macintosh.img,discard=unmap,detect-zeroes=unmap,detect-zeroes=unmap" \
+-drive "if=none,format=raw,media=disk,id=HardDrives,file=harddrives/cheetah.img,discard=unmap,detect-zeroes=unmap,detect-zeroes=unmap" \
