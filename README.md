@@ -15,7 +15,7 @@ For modifying Display Resolution, follow `OPENCORE.md` for documentation.
 
 | Mac OS X | Status | Architecture | Boot Script | Installer | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Version 10.0 : "Cheetah" | Boots, installs, runs | PowerPC | ./Cheeta-Boot.sh | [Download](https://dl.bobpony.com/macos/cheetah/Mac%20OS%20X%2010.0.3.7z)
+| Version 10.0 : "Cheetah" | Boots, installs, runs | PowerPC | ./Cheetah-Boot.sh | [Download](https://dl.bobpony.com/macos/cheetah/Mac%20OS%20X%2010.0.3.7z)
 | Version 10.1 : "Puma" | Boots, installs, runs | PowerPC | ./Puma-Boot.sh | [Download](https://dl-lt1.winworldpc.com/Abandonware%20Operating%20Systems/Macintosh/Apple%20Mac%20OS%20X%2010.1%20(''Puma''%2010.1.5G64).7z)
 | Version 10.2: "Jaguar" | Boots, installs, runs | PowerPC | ./Jaguar-Boot.sh | [Download](https://dl.bobpony.com/macos/jaguar/Apple%20Mac%20OS%20X%2010.2%20%2810.2.6C115%29.7z) | Disk 1 & 2 Needed |
 | Version 10.3: "Panther" | Boots, installs, runs | PowerPC | ./Panther-Boot.sh | [Disk 1](https://dl-alt1.winworldpc.com/Apple%20Mac%20OS%20X%2010.3.0%20-%20Disk%201.7z) & [Disk 2](https://dl-alt1.winworldpc.com/Apple%20Mac%20OS%20X%2010.3.0%20-%20Disk%202.7z)| Disk 1 & 2 Needed |
