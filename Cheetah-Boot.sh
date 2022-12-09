@@ -8,4 +8,4 @@ qemu-system-ppc -L pc-bios \
 -M mac99 \
 -m 2048 \
 -device ide-hd,bus=ide.1,drive=HardDrives \
--drive "if=none,format=raw,media=disk,id=HardDrives,file=harddrives/macintosh.img,discard=unmap,detect-zeroes=unmap,detect-zeroes=unmap" \
+-drive "if=none,format=raw,media=disk,id=HardDrives,file=harddrives/cheetah.img,discard=unmap,detect-zeroes=unmap,detect-zeroes=unmap" \
