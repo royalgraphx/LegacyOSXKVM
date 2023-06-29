@@ -29,7 +29,7 @@ For modifying Display Resolution, follow `OPENCORE.md` for documentation.
 | Version 10.11: "El Capitan" | Untested | Intel | ./Capitan-Boot.sh | [Download](http://swcdn.apple.com/content/downloads/08/58/031-45768/yy0xr85ltis3a7mxuqf3zgaw7sovupckd7/RecoveryHDUpdate.pkg)
 | Version 10.12: "Sierra" | Untested | Intel | ./Sierra-Boot.sh | [Download](http://swcdn.apple.com/content/downloads/01/53/031-86778/pnekzincp6rkf5iu91onj1bm5mw1gotnwg/RecoveryHDUpdate.pkg)
 
-###### For anything Mac OS X 10.13 High Sierra and above, please refer to [Kholia OSX-KVM](https://github.com/kholia/OSX-KVM/)
+###### For anything Mac OS X 10.13 High Sierra and above, please refer to [DarwinKVM](https://royalgraphx.github.io/DarwinKVM/)
 
 ### Is This Legal?
 
