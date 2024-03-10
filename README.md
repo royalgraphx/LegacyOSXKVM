@@ -37,7 +37,7 @@
 <h5 align="center"><a href="./info/HDD_CREATION.md">HDD_CREATION.md</a> - Explains how to use qemu-img to create a blank .img for installation</h5>
 
 <p align="center">
-  <img width="650" height="200" src="./Assets/HeaderGallery.png">
+  <img width="650" height="200" src="./assets/HeaderGallery.png">
 </p>
 
 <h3 align="center">Mac OS X Sierra (AppleInternal "Phoenix" A1708)</h3>
